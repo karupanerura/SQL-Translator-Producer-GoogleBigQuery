@@ -147,11 +147,11 @@ It will be a '.json' file of BigQuery schema format.
 
 =over 4
 
-=item outdir
+=item C<outdir>
 
 Base directory of output schema files.
 
-=item typemap
+=item C<typemap>
 
 Override type mapping from DBI type to Goolge BigQuery type.
 

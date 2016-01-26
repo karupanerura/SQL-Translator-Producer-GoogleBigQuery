@@ -19,11 +19,11 @@ It will be a '.json' file of BigQuery schema format.
 
 # ARGUMENTS
 
-- outdir
+- `outdir`
 
     Base directory of output schema files.
 
-- typemap
+- `typemap`
 
     Override type mapping from DBI type to Goolge BigQuery type.
 
